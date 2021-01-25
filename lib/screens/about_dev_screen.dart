@@ -14,7 +14,7 @@ class AboutDeveloperScreen extends StatelessWidget {
           child: Container(
             padding: const EdgeInsets.all(6),
             child: Text(
-              'Hi there!\nI my name is Rajarshi Barman and I am the developer of this app. I am a 15 year old software developer from Kolkata, India. I very passionate about techonolgy and software nam I\'m glad that I got the privilage to get started in this field at an early age. Other than tech I also love music (mostly alternative & hard rock and 80s synthwave), soprts like football and cricket, playing video games and sleeping ;p',
+              'Hi there!\nMy name is Rajarshi Barman and I am the developer of this app. I am a 15 year old software developer from Kolkata, India. I mostly work with technologies like Nodejs, Flutter, Graphql, Postgres, Mongodb, Docker, Kubernetes, AWS, etc.',
               style: TextStyle(fontSize: 18, fontWeight: FontWeight.w600),
             ),
           ),
